@@ -1,0 +1,19 @@
+{
+  "name": "cmfstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/cmfstore",
+  "keywords": ["cmfstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/cmfstore/init-composer",
+    "issues": "https://github.com/cmfstore/init-composer/issues",
+    "docs": "https://github.com/cmfstore/init-composer/wiki",
+    "forum": "https://github.com/cmfstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
